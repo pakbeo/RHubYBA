@@ -1,4 +1,3 @@
-if game.PlaceId == 2809202155 then
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
 local Window = Rayfield:CreateWindow({
 	Name = "RHub",
